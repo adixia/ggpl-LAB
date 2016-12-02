@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="388.756" height="355.212" viewBox="0, 0, 388.756, 355.212">
+  <g id="Livello_3" transform="translate(-87.722, -189.609)">
+    <path d="M105.222,207.109 L105.222,528.32" fill-opacity="0" stroke="#C62323" stroke-width="8" stroke-linecap="square"/>
+    <path d="M105.222,528.32 L427.451,528.32" fill-opacity="0" stroke="#C62323" stroke-width="8" stroke-linecap="square"/>
+    <path d="M427.451,528.32 L427.451,487.661" fill-opacity="0" stroke="#C62323" stroke-width="8" stroke-linecap="square"/>
+    <path d="M427.451,487.661 L459.978,487.661" fill-opacity="0" stroke="#C62323" stroke-width="8" stroke-linecap="square"/>
+    <path d="M459.978,487.661 L459.978,207.109" fill-opacity="0" stroke="#C62323" stroke-width="8" stroke-linecap="square"/>
+    <path d="M459.978,207.109 L105.222,207.109" fill-opacity="0" stroke="#C62323" stroke-width="8" stroke-linecap="square"/>
+  </g>
+</svg>
