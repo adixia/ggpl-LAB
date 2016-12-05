@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="241.683" height="205.159" viewBox="0, 0, 241.683, 205.159">
+  <g id="porte" transform="translate(-176.285, -327.661)">
+    <path d="M181.785,392.063 L181.785,412.9" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M192.059,379.863 L212.297,379.863" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M378.502,347.505 L378.502,368.341" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M378.502,392.063 L378.502,412.9" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M196.925,427.572 L217.163,427.572" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M251.116,427.394 L271.354,427.394" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M251.116,475.988 L271.354,475.988" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M337.566,427.158 L357.804,427.158" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M314.729,379.863 L334.967,379.863" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M392.101,528.32 L412.339,528.32" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M392.101,487.661 L412.339,487.661" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+    <path d="M393.23,333.161 L413.468,333.161" fill-opacity="0" stroke="#DB0606" stroke-width="2"/>
+  </g>
+</svg>

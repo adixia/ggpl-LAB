@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="427.514" height="427.212" viewBox="0, 0, 427.514, 427.212">
+  <g id="finestre" transform="translate(-84.964, -153.609)">
+    <path d="M138.464,207.109 L186.558,207.109" fill-opacity="0" stroke="#017782" stroke-width="26"/>
+    <path d="M269.42,207.109 L317.514,207.109" fill-opacity="0" stroke="#017782" stroke-width="26"/>
+    <path d="M385.673,207.109 L433.767,207.109" fill-opacity="0" stroke="#017782" stroke-width="26"/>
+    <path d="M301.864,528.32 L349.958,528.32" fill-opacity="0" stroke="#017782" stroke-width="26"/>
+    <path d="M138.464,528.32 L186.558,528.32" fill-opacity="0" stroke="#017782" stroke-width="26"/>
+    <path d="M459.978,387.007 L459.978,428.175" fill-opacity="0" stroke="#017782" stroke-width="26"/>
+  </g>
+</svg>
